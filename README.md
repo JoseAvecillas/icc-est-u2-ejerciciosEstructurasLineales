@@ -1,18 +1,19 @@
-## Getting Started
+# **INFORME DE INVESTIGACION**
+![alt text](ups.png)
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+### **Asignatura:** Estructura de Datos
 
-## Folder Structure
+### **Tema:** Pilas y Colas
 
-The workspace contains two folders by default, where:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+# Integrante:
+- Jose Avecillas  
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+# Objetivos:
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Entender el funcionamiento de pilas y colas
 
-## Dependency Management
+#  Ejemplos 
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+![alt text](ejemplos.png)
+
